@@ -4,15 +4,17 @@
 ### 🚀 Introduction
 yappi focuses on understanding and improvind the dynamics within agile teams.  It captures productivity metrics and happiness indicators, providing insights that can be discussed during agile ceremonies like retrospectives. The goal is to enable teams to work more effectively while also ensuring that individual well-being is not compromised.
 
-### 🤝 Contributions
-We welcome contributions from the community! yappi is an open-source project, and we encourage you to get involved and help us improve the application.
+### 📚 Get started
+yappi is up and running on production: [yappi.ch]([https](https://yappi.ch/)
 
-### 📚 Documentation
-yappi consists of both a frontend and a backend. Detailed documentation for both repositories is available:
+If you wanna start yappi locally follow the instructions in the repos:
 - [Frontend](https://github.com/24FSIIT16/dear-dev-frontend)
 - [Backend](https://github.com/24FSIIT16/dear-dev-backend)
 
 Each respository contains setup instructions and other useful information to help you get started.
+
+### 🤝 Contributions
+We welcome contributions from the community! yappi is an open-source project, and we encourage you to get involved and help us improve the application.
 
 ### ⚒️ Technologies
 yappi is build with the following technologies:
