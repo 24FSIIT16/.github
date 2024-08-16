@@ -5,7 +5,7 @@
 yappi focuses on understanding and improvind the dynamics within agile teams.  It captures productivity metrics and happiness indicators, providing insights that can be discussed during agile ceremonies like retrospectives. The goal is to enable teams to work more effectively while also ensuring that individual well-being is not compromised.
 
 ### 📚 Get started
-yappi is up and running on production: [yappi.ch]([https](https://yappi.ch/)
+yappi is up and running on production: [yappi.ch](https://yappi.ch/)
 
 If you wanna start yappi locally follow the instructions in the repos:
 - [Frontend](https://github.com/24FSIIT16/dear-dev-frontend)
