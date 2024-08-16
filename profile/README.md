@@ -16,6 +16,9 @@ Each respository contains setup instructions and other useful information to hel
 ### 🤝 Contributions
 We welcome contributions from the community! yappi is an open-source project, and we encourage you to get involved and help us improve the application.
 
+Follow the contribution guide:
+[Guide](https://github.com/24FSIIT16/.github/blob/main/contributions/GUIDE.md)
+
 ### ⚒️ Technologies
 yappi is build with the following technologies:
 - React
